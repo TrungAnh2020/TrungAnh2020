@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TrungAnh2020
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning HTML-CSS
+- 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: TrungAnh2020#7096 on Discord <br>
                       Have a great day!
